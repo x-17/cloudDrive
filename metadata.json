@@ -1,0 +1,5 @@
+{
+  "name": "CloudDrive AI",
+  "description": "A serverless cloud storage prototype demonstrating AI-powered file processing (OCR, Moderation, Classification) using Gemini as the backend engine.",
+  "requestFramePermissions": []
+}
